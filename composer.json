@@ -8,5 +8,5 @@
     "prefer-stable": true,
     "require": {
         "php": ">=5.6"
-     },
+     }
 }
