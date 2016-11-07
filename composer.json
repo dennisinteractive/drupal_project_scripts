@@ -1,0 +1,12 @@
+{
+    "name": "dennisdigital/drupal-project-scripts",
+    "description": "Custom scripts for Drupal Project template.",
+    "keywords": ["Drupal", "Console", "Development", "Symfony"],
+    "type": "project",
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.6",
+     },
+}
