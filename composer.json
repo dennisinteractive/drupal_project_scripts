@@ -1,5 +1,5 @@
 {
-    "name": "dennisdigital/drupal-project-scripts",
+    "name": "dennisdigital/drupal_project_scripts",
     "description": "Custom scripts for Drupal Project template.",
     "keywords": ["Drupal", "Console", "Development", "Symfony"],
     "type": "project",
